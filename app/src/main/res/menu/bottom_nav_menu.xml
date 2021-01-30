@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Current" />
+    <item
+        android:id="@+id/second"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Date" />
+    <item
+        android:id="@+id/third"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="7 Days report" />
+    <item
+        android:id="@+id/fourth"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Settings" />
+</menu>
